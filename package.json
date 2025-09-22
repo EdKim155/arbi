@@ -1,0 +1,8 @@
+{
+  "name": "arbi-monorepo",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
